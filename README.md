@@ -2,96 +2,54 @@
 
 
 
-# [Project Name] 🎯
+# [DepressionMaxxer] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Random]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Hana anoop] - [Sahrdaya College of engineering and techonology]
+- Member 3: [Ishaan Manoj] - [Sahrdaya college of engineering and technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A website to track your daily depression.Input your silly tragedies,get your daily depression score]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+["Modern wellness and habit-tracking apps enforce relentless toxic positivity, leaving exhausted, burned-out users with no authentic, judgment-free, and humorous outlet to acknowledge daily fatigue, petty failures, and existential dread.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Depressed AF (The Daily Trauma Operating System) is a satirical, cathartic web platform where users can admit that they are cooked]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [java script,html,typescript]
+- [react 19]
+- [openai,@tailwindcss/postcss]
+- [Node.js & npm]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
-For Software:
+For Software: readme
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="Be DEPRESSED AF — A safe place to admit you&#39;re completely cooked  - Google Chrome 12-09-2026 07_01_20" src="https://github.com/user-attachments/assets/377fbb4f-b96f-45d0-a1d8-494024158c2b" />
+(landing page)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1020" alt="Be DEPRESSED AF — A safe place to admit you&#39;re completely cooked  - Google Chrome 12-09-2026 07_01_46" src="https://github.com/user-attachments/assets/b5adafeb-da54-4fc2-a986-6e7becbe590f" />
+(silly tragedies)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Uploading Be DEPRESSED AF — A safe place to admit you're completely cooked. - Google Chrome 12-09-2026 07_07_05.png…](weekly index)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
